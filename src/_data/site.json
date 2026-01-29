@@ -1,0 +1,17 @@
+{
+  "title": "Tang Lab",
+  "tagline": "Biophotonic Imaging Laboratory - University of Oklahoma",
+  "nav": [
+    { "label": "Home", "url": "/" },
+    { "label": "Research", "url": "/research/" },
+    { "label": "Publications", "url": "/publications/" },
+    { "label": "Lab Members", "url": "/lab-members/" },
+    { "label": "News", "url": "/news/" },
+    { "label": "Conferences", "url": "/conferences/" },
+    { "label": "Alumni", "url": "/alumni/" },
+    { "label": "Openings", "url": "/openings/" },
+    { "label": "Contact", "url": "/contact/" },
+    { "label": "About", "url": "/about/" }
+  ]
+}
+

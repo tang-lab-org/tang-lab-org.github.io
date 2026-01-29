@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+---
+<section class="page-header">
+  <div class="wrap">
+    <h1>{{ title }}</h1>
+    {% if date %}
+      <p class="muted">{{ date | readableDate }}</p>
+    {% endif %}
+  </div>
+</section>
+<section class="page-content">
+  <div class="wrap prose">
+    {{ content | safe }}
+    <p><a class="back-link" href="/news/">Back to News</a></p>
+  </div>
+</section>

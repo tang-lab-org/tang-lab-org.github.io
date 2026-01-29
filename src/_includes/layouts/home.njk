@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+---
+<section class="hero">
+  <div class="wrap hero__inner">
+    <div>
+      <p class="eyebrow">Biomedical Imaging / Translational Optics</p>
+      <h1>{{ title }}</h1>
+      <p class="hero__lead">We develop multimodal optical imaging systems and machine learning tools for early cancer detection, therapy monitoring, and functional brain imaging.</p>
+      <div class="hero__actions">
+        <a class="button" href="/research/">Explore Research</a>
+        <a class="button button--ghost" href="/publications/">Publications</a>
+      </div>
+    </div>
+    <div class="hero__card">
+      <div class="hero__card-title">Lab Focus Areas</div>
+      <ul>
+        <li>Optical Coherence Tomography (OCT)</li>
+        <li>Fluorescence Laminar Optical Tomography (FLOT)</li>
+        <li>Machine-Learning-Enabled Diagnosis</li>
+        <li>Endoscopic &amp; Translational Devices</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="page-content">
+  <div class="wrap prose">
+    {{ content | safe }}
+  </div>
+</section>

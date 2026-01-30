@@ -29,6 +29,7 @@ body {
     linear-gradient(90deg, rgba(15, 107, 143, 0.05) 1px, transparent 1px);
   background-size: auto, 64px 64px, 64px 64px;
   line-height: 1.7;
+  min-width: 1100px;
 }
 
 img {
@@ -61,7 +62,7 @@ a:hover {
 }
 
 .wrap {
-  width: min(1100px, 90vw);
+  width: 1100px;
   margin: 0 auto;
 }
 

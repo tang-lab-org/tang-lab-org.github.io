@@ -7,7 +7,7 @@
     <meta name="description" content="{{ site.tagline }}" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:wght@400;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/assets/styles.css" />
   </head>
   <body>
@@ -16,26 +16,50 @@
       <div class="wrap">
         <div class="brand">
           <a class="brand__name" href="/">{{ site.title }}</a>
-          <div class="brand__tagline">{{ site.tagline }}</div>
+          <div class="brand__tagline">{{ site.tagline | replace(" - ", "<br>") | safe }}</div>
         </div>
         {% include "partials/nav.njk" %}
+        <a class="site-badge" href="https://www.ou.edu/" aria-label="University of Oklahoma">
+          <img src="/assets/logos/ou.jpg" alt="University of Oklahoma" />
+        </a>
       </div>
     </header>
 
     <main id="content" class="site-main">
       {{ content | safe }}
     </main>
-
     <footer class="site-footer">
       <div class="wrap">
-        <div>© {{ year }} {{ site.title }}. All rights reserved.</div>
-        <div class="footer-links">
-          <a href="/contact/">Contact</a>
-          <span aria-hidden="true">·</span>
-          <a href="/openings/">Openings</a>
+        <div class="logo-bar footer-logo-bar">
+          <div class="logo-bar__inner">
+            <div class="logo-bar__group">
+              <a href="https://www.ou.edu/coe/sbme" aria-label="Stephenson School of Biomedical Engineering, University of Oklahoma">
+                <img class="logo-bar__logo logo-bar__logo--bme" src="/assets/logos/ou-bme.png" alt="Stephenson School of Biomedical Engineering, University of Oklahoma" />
+              </a>
+              <a href="https://www.ouhealth.com/" aria-label="OU Health">
+                <img class="logo-bar__logo" src="/assets/logos/ou-health.png" alt="OU Health" />
+              </a>
+              <a href="https://lifeshareoklahoma.org/" aria-label="LifeShare Oklahoma">
+                <img class="logo-bar__logo logo-bar__logo--lifeshare" src="/assets/logos/lifeshare.png" alt="LifeShare Oklahoma" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-meta">
+          <span>© {{ year }} {{ site.title }} · University of Oklahoma</span>
+          <span aria-hidden="true">|</span>
+          <span class="footer-links">
+            <a href="/contact/">Contact</a>
+            <span aria-hidden="true">·</span>
+            <a href="/openings/">Openings</a>
+          </span>
         </div>
       </div>
     </footer>
   </body>
 </html>
+
+
+
+
 

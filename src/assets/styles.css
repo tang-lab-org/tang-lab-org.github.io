@@ -75,28 +75,60 @@ a:hover {
 }
 
 .site-header .wrap {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
   align-items: center;
-  justify-content: space-between;
   padding: 18px 0;
   gap: 24px;
 }
 
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 240px;
+}
+
 .brand__name {
   font-family: "IBM Plex Serif", "Times New Roman", serif;
-  font-size: 1.5rem;
+  font-size: 1.55rem;
   font-weight: 700;
   color: var(--ink);
+  line-height: 1.2;
+  white-space: nowrap;
 }
 
 .brand__tagline {
   font-size: 0.9rem;
   color: var(--muted);
+  line-height: 1.4;
+  max-width: 300px;
 }
 
 .site-nav {
   display: flex;
   align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.site-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  border-radius: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+.site-badge img {
+  max-height: 72px;
+  width: auto;
+  display: block;
 }
 
 .nav-toggle {
@@ -115,6 +147,8 @@ a:hover {
   margin: 0;
   padding: 0;
   font-size: 0.95rem;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .nav-list a {
@@ -199,15 +233,92 @@ a:hover {
   box-shadow: var(--shadow-soft);
 }
 
+.card-sci {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--border-strong);
+  box-shadow:
+    0 14px 30px rgba(15, 107, 143, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  background-image:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(241, 246, 250, 0.92)),
+    linear-gradient(90deg, rgba(15, 107, 143, 0.06) 1px, transparent 1px),
+    linear-gradient(rgba(15, 107, 143, 0.06) 1px, transparent 1px);
+  background-size: auto, 36px 36px, 36px 36px;
+}
+
+.card-sci::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 3px;
+  background: linear-gradient(90deg, rgba(15, 107, 143, 0.75), rgba(15, 107, 143, 0.2), transparent);
+}
+
 .hero__card-title {
-  font-weight: 700;
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  font-size: 1rem;
+  font-weight: 600;
   margin-bottom: 12px;
+  color: var(--accent-dark);
 }
 
 .hero__card ul {
   margin: 0;
   padding-left: 20px;
   color: var(--muted);
+}
+
+.logo-bar {
+  padding: 0 0 30px;
+}
+
+.logo-bar__inner {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.logo-bar__group {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  gap: 32px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.logo-bar__logo {
+  max-height: 56px;
+  width: auto;
+  display: block;
+}
+
+.logo-bar__logo--bme {
+  max-height: 44px;
+}
+
+.logo-bar__logo--lifeshare {
+  max-height: 60px;
+}
+
+.logo-bar.footer-logo-bar {
+  width: 100%;
+  flex: 0 0 100%;
+  padding: 0 0 16px;
+}
+
+.logo-bar.footer-logo-bar .logo-bar__inner {
+  justify-content: flex-start;
 }
 
 .page-header {
@@ -236,11 +347,40 @@ a:hover {
   box-shadow: var(--shadow-soft);
 }
 
+.prose.card-sci {
+  background-color: transparent;
+  background-image:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(241, 246, 250, 0.92)),
+    linear-gradient(90deg, rgba(15, 107, 143, 0.06) 1px, transparent 1px),
+    linear-gradient(rgba(15, 107, 143, 0.06) 1px, transparent 1px);
+  background-size: auto, 36px 36px, 36px 36px;
+  border-color: var(--border-strong);
+  box-shadow:
+    0 14px 30px rgba(15, 107, 143, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
 .prose h2,
 .prose h3,
 .prose h4 {
   font-family: "IBM Plex Serif", "Times New Roman", serif;
   color: var(--ink);
+}
+
+.prose-academic {
+  font-family: "IBM Plex Serif", "Times New Roman", serif;
+  font-size: 1.02rem;
+  line-height: 1.75;
+}
+
+.prose-academic h2,
+.prose-academic h3 {
+  letter-spacing: 0.015em;
+  font-weight: 600;
+}
+
+.prose-academic strong {
+  font-weight: 600;
 }
 
 .prose a {
@@ -321,6 +461,21 @@ a:hover {
   color: var(--ink);
 }
 
+.news-academic {
+  font-family: "IBM Plex Serif", "Times New Roman", serif;
+  font-size: 1.02rem;
+  line-height: 1.7;
+}
+
+.news-academic .news-list__date {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.news-academic .news-list__title a {
+  font-weight: 600;
+}
+
 .back-link {
   font-weight: 600;
 }
@@ -345,6 +500,13 @@ a:hover {
   color: var(--muted);
 }
 
+.footer-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 @keyframes fadeUp {
   from {
     opacity: 0;
@@ -353,49 +515,5 @@ a:hover {
   to {
     opacity: 1;
     transform: translateY(0);
-  }
-}
-
-@media (max-width: 900px) {
-  .hero__inner {
-    grid-template-columns: 1fr;
-  }
-
-  .nav-toggle {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-  }
-
-  .nav-list {
-    position: absolute;
-    top: 72px;
-    right: 5vw;
-    background: #fff;
-    border-radius: 12px;
-    padding: 16px;
-    flex-direction: column;
-    gap: 8px;
-    box-shadow: var(--shadow-soft);
-    border: 1px solid var(--border);
-    display: none;
-  }
-
-  .nav-list.is-open {
-    display: flex;
-  }
-
-  .site-header .wrap {
-    align-items: flex-start;
-  }
-}
-
-@media (max-width: 700px) {
-  .news-list__item {
-    grid-template-columns: 1fr;
-  }
-
-  .prose {
-    padding: 20px;
   }
 }

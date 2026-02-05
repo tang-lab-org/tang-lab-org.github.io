@@ -217,6 +217,7 @@ a:hover {
 .button:hover {
   transform: translateY(-1px);
   box-shadow: var(--shadow);
+  color: #fff;
 }
 
 .button--ghost {
@@ -224,6 +225,10 @@ a:hover {
   color: var(--accent-dark);
   border: 1px solid rgba(15, 107, 143, 0.35);
   box-shadow: none;
+}
+
+.button--ghost:hover {
+  color: var(--accent-dark);
 }
 
 .hero__card {

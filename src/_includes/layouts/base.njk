@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1100, initial-scale=1" />
-    <title>{{ title }} · {{ site.title }}</title>
+    <title>{% if title and title != "Home" %}{{ title }} | {{ site.title }} | Biophotonic Imaging Laboratory | OU{% else %}{{ site.title }} | Biophotonic Imaging Laboratory | OU{% endif %}</title>
     <meta name="description" content="{{ site.tagline }}" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

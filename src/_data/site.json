@@ -10,8 +10,7 @@
     { "label": "Conferences", "url": "/conferences/" },
     { "label": "Alumni", "url": "/alumni/" },
     { "label": "Openings", "url": "/openings/" },
-    { "label": "Contact", "url": "/contact/" },
-    { "label": "About", "url": "/about/" }
+    { "label": "Contact", "url": "/contact/" }
   ]
 }
 

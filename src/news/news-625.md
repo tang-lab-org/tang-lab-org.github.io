@@ -7,4 +7,4 @@ permalink: "/news/news-625/"
 ---
 
 <h3><a href="https://www.ou.edu/sga/graduate-student-senate">https://www.ou.edu/sga/graduate-student-senate</a></h3>
-<a href="/uploads/2022/04/1421091816228-2.png"><img class="alignnone size-full wp-image-628" src="/uploads/2022/04/1421091816228-2.png" alt="" width="275" height="201" /></a>
+<a href="/uploads/news/2022/04/1421091816228-2.png"><img class="alignnone size-full wp-image-628" src="/uploads/news/2022/04/1421091816228-2.png" alt="" width="275" height="201" /></a>

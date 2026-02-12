@@ -7,4 +7,4 @@ permalink: "/news/news-893/"
 ---
 
 <h3><a href="https://www.ou.edu/honors/research/urop">https://www.ou.edu/honors/research/urop</a></h3>
-<a href="/uploads/2023/10/IMG_0777.jpg"><img class=" wp-image-894 alignleft" src="/uploads/2023/10/IMG_0777.jpg" alt="" width="493" height="660" /></a>
+<a href="/uploads/news/2023/10/IMG_0777.jpg"><img class=" wp-image-894 alignleft" src="/uploads/news/2023/10/IMG_0777.jpg" alt="" width="493" height="660" /></a>

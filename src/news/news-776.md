@@ -6,7 +6,7 @@ layout: layouts/news-item.njk
 permalink: "/news/news-776/"
 ---
 
-<h3><a href="/uploads/2023/03/OCASTlogo_2022_color1.png"><img class="size-large wp-image-777 alignleft" src="/uploads/2023/03/OCASTlogo_2022_color1-1024x336.png" alt="" width="645" height="212" /></a></h3>
+<h3><a href="/uploads/news/2023/03/OCASTlogo_2022_color1.png"><img class="size-large wp-image-777 alignleft" src="/uploads/news/2023/03/OCASTlogo_2022_color1-1024x336.png" alt="" width="645" height="212" /></a></h3>
 <h3></h3>
 <h3></h3>
 <h3></h3>

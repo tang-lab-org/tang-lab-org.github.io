@@ -6,4 +6,4 @@ layout: layouts/news-item.njk
 permalink: "/news/news-792/"
 ---
 
-<a href="/uploads/2023/04/paperaward.jpg"><img class="aligncenter size-large wp-image-793" src="/uploads/2023/04/paperaward-1024x768.jpg" alt="" width="645" height="484" /></a>
+<a href="/uploads/news/2023/04/paperaward.jpg"><img class="aligncenter size-large wp-image-793" src="/uploads/news/2023/04/paperaward-1024x768.jpg" alt="" width="645" height="484" /></a>

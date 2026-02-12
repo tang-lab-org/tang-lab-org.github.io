@@ -7,4 +7,4 @@ permalink: "/news/news-717/"
 ---
 
 <h4><a href="http://end2cancer.com/wordpress2/">http://end2cancer.com/wordpress2/</a></h4>
-<a href="/uploads/2022/12/IMG_3289-scaled.jpg"><img class="alignnone size-medium wp-image-718" src="/uploads/2022/12/IMG_3289-300x225.jpg" alt="" width="300" height="225" /></a><a href="/uploads/2022/12/zaid.jpg"><img class="alignnone size-medium wp-image-719" src="/uploads/2022/12/zaid-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="/uploads/news/2022/12/IMG_3289-scaled.jpg"><img class="alignnone size-medium wp-image-718" src="/uploads/news/2022/12/IMG_3289-300x225.jpg" alt="" width="300" height="225" /></a><a href="/uploads/news/2022/12/zaid.jpg"><img class="alignnone size-medium wp-image-719" src="/uploads/news/2022/12/zaid-300x225.jpg" alt="" width="300" height="225" /></a>

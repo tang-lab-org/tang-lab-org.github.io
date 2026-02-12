@@ -6,5 +6,5 @@ layout: layouts/news-item.njk
 permalink: "/news/news-751/"
 ---
 
-<a href="/uploads/2023/01/Picture2_small-scaled.jpg"><img class="alignnone wp-image-753" src="/uploads/2023/01/Picture2_small-300x181.jpg" alt="" width="322" height="194" /></a>
+<a href="/uploads/news/2023/01/Picture2_small-scaled.jpg"><img class="alignnone wp-image-753" src="/uploads/news/2023/01/Picture2_small-300x181.jpg" alt="" width="322" height="194" /></a>
 <h3><a href="https://ieeexplore.ieee.org/abstract/document/9998062">https://ieeexplore.ieee.org/abstract/document/9998062</a></h3>

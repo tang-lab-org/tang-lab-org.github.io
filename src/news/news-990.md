@@ -7,4 +7,4 @@ permalink: "/news/news-990/"
 ---
 
 <h3><a href="https://www.okepscor.org/calendar/2024-research-day-capitol">https://www.okepscor.org/calendar/2024-research-day-capitol</a></h3>
-<a href="/uploads/2024/03/IMG_8820-scaled.jpeg"><img class="size-large wp-image-991 alignleft" src="/uploads/2024/03/IMG_8820-1024x768.jpeg" alt="" width="645" height="484" /></a>
+<a href="/uploads/news/2024/03/IMG_8820-scaled.jpeg"><img class="size-large wp-image-991 alignleft" src="/uploads/news/2024/03/IMG_8820-1024x768.jpeg" alt="" width="645" height="484" /></a>

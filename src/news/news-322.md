@@ -6,5 +6,5 @@ layout: layouts/news-item.njk
 permalink: "/news/news-322/"
 ---
 
-<h3><a href="/uploads/2019/04/57486013_588992638275485_1827212729920782336_o.jpg"><img class="alignnone size-medium wp-image-379" src="/uploads/2019/04/57486013_588992638275485_1827212729920782336_o-300x225.jpg" alt="" width="300" height="225" /></a></h3>
+<h3><a href="/uploads/news/2019/04/57486013_588992638275485_1827212729920782336_o.jpg"><img class="alignnone size-medium wp-image-379" src="/uploads/news/2019/04/57486013_588992638275485_1827212729920782336_o-300x225.jpg" alt="" width="300" height="225" /></a></h3>
 <h3><a href="https://www.facebook.com/okneuroscience">https://www.facebook.com/okneuroscience</a></h3>

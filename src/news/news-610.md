@@ -6,5 +6,5 @@ layout: layouts/news-item.njk
 permalink: "/news/news-610/"
 ---
 
-<h3><a href="/uploads/2022/04/NSF_logo.png"><img class="alignnone size-medium wp-image-612" src="/uploads/2022/04/NSF_logo-298x300.png" alt="" width="298" height="300" /></a></h3>
+<h3><a href="/uploads/news/2022/04/NSF_logo.png"><img class="alignnone size-medium wp-image-612" src="/uploads/news/2022/04/NSF_logo-298x300.png" alt="" width="298" height="300" /></a></h3>
 <h3><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132161&amp;HistoricalAwards=false">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132161&amp;HistoricalAwards=false</a></h3>

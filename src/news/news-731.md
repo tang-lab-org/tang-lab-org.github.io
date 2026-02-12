@@ -7,4 +7,4 @@ permalink: "/news/news-731/"
 ---
 
 <h3><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238648&amp;HistoricalAwards=false">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238648&amp;HistoricalAwards=false</a></h3>
-<a href="/uploads/2023/01/NSF-Faculty-Early-Career-featured.jpg"><img class="alignnone size-medium wp-image-732" src="/uploads/2023/01/NSF-Faculty-Early-Career-featured-300x115.jpg" alt="" width="300" height="115" /></a>
+<a href="/uploads/news/2023/01/NSF-Faculty-Early-Career-featured.jpg"><img class="alignnone size-medium wp-image-732" src="/uploads/news/2023/01/NSF-Faculty-Early-Career-featured-300x115.jpg" alt="" width="300" height="115" /></a>

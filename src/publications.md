@@ -93,7 +93,7 @@ layout: layouts/page.njk
 
 (13) Q. Tang, Y. Liu, V. Tsytsarev, J. Lin, B. Wang, U. Kanniyappan, Z. Li, and Y. Chen, "High-dynamic-range fluorescence laminar optical tomography (HDR-FLOT)," <strong><em>Biomed. Opt. Express</em></strong> 8(4), 2124-2137 (2017). <a href="https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-8-4-2124&amp;id=360703">https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-8-4-2124&amp;id=360703</a>
 
-(12) Z. Li<sup>§</sup>, Q. Tang<sup>§</sup>, L. Jin, P. M. Andrews, and Y. Chen, "Monitoring Kidney Microanatomy Changes During Ischemia-Reperfusion Process Using Texture Analysis of OCT Images," <strong><em>IEEE Photonics Journal</em></strong> 9(2), 1-10 (2017). <a href="https://ieeexplore.ieee.org/document/7858647">https://ieeexplore.ieee.org/document/7858647</a>
+(12) Z. Li<sup>&sect;</sup>, Q. Tang<sup>&sect;</sup>, L. Jin, P. M. Andrews, and Y. Chen, "Monitoring Kidney Microanatomy Changes During Ischemia-Reperfusion Process Using Texture Analysis of OCT Images," <strong><em>IEEE Photonics Journal</em></strong> 9(2), 1-10 (2017). <a href="https://ieeexplore.ieee.org/document/7858647">https://ieeexplore.ieee.org/document/7858647</a>
 
 (11) O. K. Nag, M. H. Stewart, J. R. Deschamps, K. Susumu, E. Oh, V. Tsytsarev, Q. Tang, A. L. Efros, R. Vaxenburg, B. J. Black, and Y. Chen, "Quantum Dot-Peptide-Fullerene Bioconjugates for Visualization of In Vitro and In Vivo Cellular Membrane Potential," <strong><em>ACS Nano</em></strong> (2017). <a href="https://doi.org/10.1021/acsnano.7b00954">https://doi.org/10.1021/acsnano.7b00954</a> <strong>Featured on Journal Cover; Alan Berman Research Publication Award</strong>
 

@@ -5,6 +5,9 @@ layout: layouts/page.njk
 ---
 
 <h1><strong>Journal papers</strong></h1>
+<h2>2026</h2>
+(53) C. Wang, P. Calle, F. Yan, Q. Zhang, K. Fung, Z. Yu, S. Duguay, W. Vanlandingham, N. Bradley, S. Patel, B. Nave, C. Hostetler, A. Milam, C. Pan, and Q. Tang*, "Percutaneous nephrostomy guidance by a convolutional-neural-network-based optical coherence tomography endoscope," <strong><em>Communications Engineering</em></strong>, 5(1), 47 (2026). <a href="https://doi.org/10.1038/s44172-026-00613-8">https://doi.org/10.1038/s44172-026-00613-8</a>
+
 <h2>2025</h2>
 (52) K. Zhang, P. Gilley, N. Abdoli, C. Thai, Y. Chen, L. Dockery, K. Moore, R. S. Mannel, Q. Tang*, and Y. Qiu (2025). Parameter efficient fine-tuning of foundation model to facilitate tumor response prediction for ovarian cancer patients. <strong><em>BMC Medical Imaging</em></strong>, 25(1), 504. <a href="https://doi.org/10.1186/s12880-025-02033-0">https://doi.org/10.1186/s12880-025-02033-0</a>
 

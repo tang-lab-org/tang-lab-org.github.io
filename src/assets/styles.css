@@ -478,6 +478,56 @@ a:hover {
   font-weight: 600;
 }
 
+.conference-news {
+  display: grid;
+  gap: 24px;
+}
+
+.conference-news__lead {
+  font-size: 1.06rem;
+  color: var(--muted);
+  margin: 0;
+}
+
+.conference-news__highlights {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.conference-news__gallery {
+  display: grid;
+  gap: 20px;
+  align-items: start;
+  justify-items: center;
+}
+
+.conference-news__gallery .conference-news__figure--feature {
+  grid-column: auto;
+}
+
+.conference-news__figure {
+  margin: 0;
+  width: min(100%, 820px);
+  padding: 14px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow-soft);
+}
+
+.conference-news__figure img {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.conference-news__figure figcaption {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: var(--muted);
+  text-align: center;
+}
+
 .back-link {
   font-weight: 600;
 }

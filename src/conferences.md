@@ -7,6 +7,10 @@ layout: layouts/page.njk
 
 <h3><strong>2026</strong></h3>
 
+(85) R. Liu, F. Yan, C. Wang, Q. Zhang, P. N. Martins, M. Bornface, Y. Cui, K. Zhang, J. Liu, N. R. Battula, K.-M. A. Fung, W. Ali, A. N. Frickenstein, and Q. Tang*. "Optical Coherence Tomography Detects Biliary Microstructural Alterations for Evaluating Bile Duct Viability in Liver Transplantation." Presented at the 2026 GREAT Symposium, April 6, 2026, OU Health, Oklahoma City, OK, USA.
+
+(84) J. Liu, C. Wang, F. Yan, Q. Zhang, R. Liu, Y. Cui, C. Pan, K. Fung, N. A. Bradley, A. Jain, S. G. Patel, S. Duguay, W. Vanlandingham, and Q. Tang*. "Multimodal, Forward-Viewing Optical Coherence Tomography (OCT) Endoscope Integrated with Optical Coherence Elastography (OCE) for Percutaneous Nephrostomy Guidance." Presented at the 2026 GREAT Symposium, April 6, 2026, OU Health, Oklahoma City, OK, USA.
+
 (83) Q. Zhang, R. Rai, C. Wang, F. Yan, L. Dockery, and Q. Tang*. "Evaluation of Repurposing Anti-Parasite Drugs for Ovarian Cancer from Cell to Animal Level Using Optical Coherence Tomography." Presented at the 2026 Annual Cancer Research Symposium, March 13, 2026, OU Health, Oklahoma City, OK, USA.
 
 (82) J. Liu, C. Wang, F. Yan, Q. Zhang, R. Liu, Y. Cui, C. Pan, K. Fung, N. A. Bradley, A. Jain, S. G. Patel, S. Duguay, W. Vanlandingham, and Q. Tang*. "Multimodal, Forward-Viewing Optical Coherence Tomography (OCT) Endoscope Integrated with Optical Coherence Elastography (OCE) for Percutaneous Nephrostomy Guidance." Presented at the 2026 Annual Cancer Research Symposium, March 13, 2026, OU Health, Oklahoma City, OK, USA.

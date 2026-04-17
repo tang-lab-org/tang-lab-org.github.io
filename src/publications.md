@@ -6,6 +6,8 @@ layout: layouts/page.njk
 
 <h1><strong>Journal papers</strong></h1>
 <h2>2026</h2>
+(55) Q. Zhang, Q. Tang, T. Vu, K. Pandit, Y. Cui, F. Yan, N. Wang, J. Li, A. Yao, L. Menozzi, K.-M. Fung, Z. Yu, P. Parrack, W. Ali, R. Liu, C. Wang, J. Liu, C. A. Hostetler, A. N. Milam, B. Nave, R. A. Squires, N. R. Battula, C. Pan, P. N. Martins, and J. Yao, "Deep-learning-Assisted Photoacoustic and Ultrasound Evaluation for Pre-transplant Human Liver Graft Quality and Transplant Suitability," (2026). <a href="https://doi.org/10.64898/2026.04.13.26350786">https://doi.org/10.64898/2026.04.13.26350786</a>
+
 (54) S. Surya, R. Liu, F. Yan, Q. Tang, C. V. Rao, and V. Madka, "Galactokinase 1 Inhibition-Induced Cell Cycle Arrest and Apoptosis in Bladder Cancer Cells Is Associated with AKT Signaling Downregulation," <strong><em>International Journal of Molecular Sciences</em></strong>, 27(6), 2911 (2026). <a href="https://doi.org/10.3390/ijms27062911">https://doi.org/10.3390/ijms27062911</a>
 
 (53) C. Wang, P. Calle, F. Yan, Q. Zhang, K. Fung, Z. Yu, S. Duguay, W. Vanlandingham, N. Bradley, S. Patel, B. Nave, C. Hostetler, A. Milam, C. Pan, and Q. Tang*, "Percutaneous nephrostomy guidance by a convolutional-neural-network-based optical coherence tomography endoscope," <strong><em>Communications Engineering</em></strong>, 5(1), 47 (2026). <a href="https://doi.org/10.1038/s44172-026-00613-8">https://doi.org/10.1038/s44172-026-00613-8</a>

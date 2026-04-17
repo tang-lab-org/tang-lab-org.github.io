@@ -13,7 +13,8 @@ module.exports = function (eleventyConfig) {
     const fmt = new Intl.DateTimeFormat("en-US", {
       year: "numeric",
       month: "short",
-      day: "2-digit"
+      day: "2-digit",
+      timeZone: "UTC"
     });
     return fmt.format(dateObj);
   });

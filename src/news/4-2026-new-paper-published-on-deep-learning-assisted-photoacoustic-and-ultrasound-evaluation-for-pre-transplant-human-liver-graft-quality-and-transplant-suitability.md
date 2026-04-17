@@ -1,6 +1,6 @@
 ---
 title: "4/2026 - New paper published on Deep-learning-Assisted Photoacoustic and Ultrasound Evaluation for Pre-transplant Human Liver Graft Quality and Transplant Suitability"
-date: 2026-04-13
+date: 2026-04-17
 tags: [news]
 layout: layouts/news-item.njk
 permalink: "/news/4-2026-new-paper-published-on-deep-learning-assisted-photoacoustic-and-ultrasound-evaluation-for-pre-transplant-human-liver-graft-quality-and-transplant-suitability/"

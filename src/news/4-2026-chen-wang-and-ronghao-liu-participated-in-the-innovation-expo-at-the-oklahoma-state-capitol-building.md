@@ -11,6 +11,8 @@ permalink: "/news/4-2026-chen-wang-and-ronghao-liu-participated-in-the-innovatio
     On April 23, 2026, Chen Wang and Ronghao Liu participated in the Innovation Expo at the Oklahoma State Capitol Building, sharing Tang Lab's biomedical imaging research with state leaders, innovators, and the public.
   </p>
 
+  <p><a href="https://oklahoma.gov/ocast.html">https://oklahoma.gov/ocast.html</a></p>
+
   <div class="conference-news__gallery">
     <figure class="conference-news__figure conference-news__figure--feature">
       <a href="/uploads/conference/2026/04/innovation-expo/IMG_4632.jpeg">

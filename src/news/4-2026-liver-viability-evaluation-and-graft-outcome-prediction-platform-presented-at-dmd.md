@@ -7,3 +7,4 @@ permalink: "/news/4-2026-liver-viability-evaluation-and-graft-outcome-prediction
 ---
 
 <h3>F. Yan and Q. Tang presented "A Liver Viability Evaluation and Graft Outcome Prediction Platform (LVE-GOPP)" at the Design of Medical Devices Conference (DMD) on April 22, 2026.</h3>
+<h3><a href="https://dmd.umn.edu/2026/medtech-pitch">https://dmd.umn.edu/2026/medtech-pitch</a></h3>

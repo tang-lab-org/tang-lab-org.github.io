@@ -6,6 +6,8 @@ layout: layouts/page.njk
 
 <h1><strong>Journal papers</strong></h1>
 <h2>2026</h2>
+(57) Y. Liu, C. Wang, P. Calle, J. Reynolds, S. Ly, H. Cui, A. de Armendi, S. Shettar, K. Fung, Q. Li, R. Haldavnekar, Q. Tang*, and C. Pan, "Deep learning fusion of multi-channel imaging from polarization-sensitive optical coherence tomography," <strong><em>Biomed. Opt. Express</em></strong> 17, 3553-3575 (2026). <a href="https://doi.org/10.1364/BOE.597049">https://doi.org/10.1364/BOE.597049</a>
+
 (56) S. Negri, F. Yan, M. Milan, R. Gulej, J. Ihuoma, A. Kosmider, S. Tavakol, E. Troyano-Rodriguez, R. Rudraboina, C. Wang, A. Csiszar, Q. Tang, and S. Tarantini, "Multi-contrast optical coherence tomography for in vivo visualization and quantification of vascular features and collagen in mouse ovaries in aging," <strong><em>Biomed. Opt. Express</em></strong> 17, 2897-2913 (2026). <a href="https://doi.org/10.1364/BOE.593302">https://doi.org/10.1364/BOE.593302</a>
 
 (55) Q. Zhang, Q. Tang, T. Vu, K. Pandit, Y. Cui, F. Yan, N. Wang, J. Li, A. Yao, L. Menozzi, K.-M. Fung, Z. Yu, P. Parrack, W. Ali, R. Liu, C. Wang, J. Liu, C. A. Hostetler, A. N. Milam, B. Nave, R. A. Squires, N. R. Battula, C. Pan, P. N. Martins, and J. Yao, "Deep-learning-Assisted Photoacoustic and Ultrasound Evaluation for Pre-transplant Human Liver Graft Quality and Transplant Suitability," (2026). <a href="https://doi.org/10.64898/2026.04.13.26350786">https://doi.org/10.64898/2026.04.13.26350786</a>

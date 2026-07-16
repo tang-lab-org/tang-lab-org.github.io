@@ -152,5 +152,13 @@ Contact: <a id="LPlnk385367" title="mailto:leena.m.ahmad-1@ou.edu" href="mailto
 <span data-olk-copy-source="MessageBody">I’m a junior studying Biomedical Engineering. I’m interested in biomedical imaging, medical devices, and new ways to improve diagnostics. I’m especially drawn to research that uses noninvasive imaging and data analysis to help improve organ health and transplant outcomes, which connects closely to Dr. Tang’s work on kidney imaging.</span>
 
 </div>
+<div>
+
+<img class="wp-image-1332 alignnone" src="/uploads/lab-members/2026/Liz.jpeg" alt="Liz Yue" width="272" height="408" />
+<h4 class="primaryText-822" title="Yue, Liz" data-log-name="DisplayName">Liz Yue</h4>
+<div>Undergraduate Research Assistant</div>
+<span data-olk-copy-source="MessageBody">Liz Yue is a graduate of Norman North High School and will begin studying Engineering Sciences at Emory University in Fall 2026. She is interested in biomedical engineering and translational research and is excited to contribute to projects in the Tang Lab while gaining hands-on research experience.</span>
+
+</div>
 </div>
 </div>

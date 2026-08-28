@@ -38,6 +38,12 @@ Contact: <strong>chen_wang_ou@ou.edu</strong>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=eZnHgiEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">https://scholar.google.com/citations?hl=en&amp;user=eZnHgiEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate</a>
 
 Contact: <strong>feng.yan@ou.edu</strong>
+&nbsp;
+
+<img class="alignnone size-medium wp-image-365" src="/uploads/lab-members/2026/zheying sun.jpeg" alt="Zheying Sun" width="272" height="363" />
+
+<strong>Zheying Sun (August 2026- ), Ph.D. University of South Florida</strong><strong>
+</strong>Zheying earned her Ph.D. in Medical Sciences from the University of South Florida. Her previous research focused on investigating the molecular mechanisms of human capillary tube formation using three-dimensional (3D) cell culture models. In Dr. Tang's lab, her research will focus on wet-lab studies, including tissue slice culture and multicellular tumor spheroid/organoid models.
 <h2><strong>Graduate Students</strong></h2>
 <img class=" wp-image-1176 alignnone" src="/uploads/lab-members/2025/02/IMG_8801-scaled-e1738533907546-768x1024.jpeg" alt="" width="323" height="431" />
 

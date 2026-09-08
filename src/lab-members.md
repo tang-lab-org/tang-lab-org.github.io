@@ -98,17 +98,15 @@ Daniel <span data-olk-copy-source="MessageBody">is a PhD student in the Stephens
 
 Contact: dk@ou.edu
 
-</div>
-</div>
-<h2><strong>Undergraduate Students</strong></h2>
-<div title="Wilson, Tyler T." data-log-name="PersonName">
-
 <img class=" wp-image-919 alignnone" src="/uploads/lab-members/2023/12/Pandit-Kaustubh-Final-768x1024.png" alt="" width="217" height="290" />
 
-</div>
 <strong>Kaustubh Pandit, (01/2023- )</strong>
 
 Contact: <a href="mailto:kaustubh.pandit@ou.edu">kaustubh.pandit@ou.edu</a>
+
+</div>
+</div>
+<h2><strong>Undergraduate Students</strong></h2>
 <div></div>
 <div></div>
 <div><img class="wp-image-1215 alignnone" src="/uploads/lab-members/2025/05/DSC_0157-683x1024.jpeg" alt="" width="236" height="354" /></div>
@@ -161,7 +159,7 @@ Contact: <a id="LPlnk385367" title="mailto:leena.m.ahmad-1@ou.edu" href="mailto
 <div>
 
 <img class="wp-image-1332 alignnone" src="/uploads/lab-members/2026/Liz.jpeg" alt="Elizabeth Yue" width="272" height="408" />
-<h4 class="primaryText-822" title="Yue, Elizabeth" data-log-name="DisplayName">Elizabeth Yue</h4>
+<h4 class="primaryText-822" title="Yue, Elizabeth" data-log-name="DisplayName">Elizabeth Yue <strong>(08/2026- )</strong></h4>
 <div>Undergraduate Research Assistant</div>
 <span data-olk-copy-source="MessageBody">Elizabeth Yue is a graduate of Norman North High School and will begin studying Engineering Sciences at Emory University in Fall 2026. She is interested in biomedical engineering and translational research and is excited to contribute to projects in the Tang Lab while gaining hands-on research experience.</span>
 
@@ -169,7 +167,7 @@ Contact: <a id="LPlnk385367" title="mailto:leena.m.ahmad-1@ou.edu" href="mailto
 <div>
 
 <img class="wp-image-1332 alignnone" src="/uploads/lab-members/2026/Olivia.jpeg" alt="Olivia Rahal" width="272" height="389" />
-<h4 class="primaryText-822" title="Rahal, Olivia" data-log-name="DisplayName">Olivia Rahal</h4>
+<h4 class="primaryText-822" title="Rahal, Olivia" data-log-name="DisplayName">Olivia Rahal <strong>(09/2026- )</strong></h4>
 <div>Undergraduate Research Assistant</div>
 <span data-olk-copy-source="MessageBody">Olivia Rahal is a fourth-year student pursuing a Planned Program Bachelor of Science integrating medical sciences, community health, and medical history. She plans to attend medical school and is interested in obstetrics, gynecology, and reproductive endocrinology. Her research interests include biomedical imaging and diagnostic technologies for assessing tissue viability and improving disease characterization and treatment.</span>
 

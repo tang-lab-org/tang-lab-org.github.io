@@ -6,6 +6,8 @@ layout: layouts/page.njk
 
 <h1><strong>Journal papers</strong></h1>
 <h2>2026</h2>
+(60) H. Cui, C. Wang, K.-M. Fung, A. Jain, P. Calle, R. Liu, J. Liu, Y. Cui, Q. Zhang, Y. Ling, J. White, Q. Tang*, and C. Pan, "Deep-learning-aided sarcoma biopsy guidance using forward-view endoscopic optical coherence tomography," <strong><em>Biomed. Opt. Express</em></strong> 17, 5213-5231 (2026). <a href="https://doi.org/10.1364/BOE.613595">https://doi.org/10.1364/BOE.613595</a>
+
 (59) F. Yan, Q. Zhang, B.M. Mutembei, K. Zhang, Y. Cui, R. Liu, J. Liu, C. Wang, Z.A. Alhajeri, K. Pandit, F. Zhang, Z. Yu, K.-M. Fung, S.N. Elgenaid, P. Parrack, W. Ali, C.A. Hostetler, A.N. Milam, B. Nave, R. Squires, P.N. Martins, N.R. Battula, S. Potter, Y. Chen, C. Pan, and Q. Tang*, "Comprehensive Evaluation of Human Donor Liver Viability with Polarization-Sensitive Optical Coherence Tomography," <strong><em>Sci. Transl. Med.</em></strong> 18, eadv7124 (2026). <a href="https://doi.org/10.1126/scitranslmed.adv7124">https://doi.org/10.1126/scitranslmed.adv7124</a>
 
 (58) N.R. Battula, R. Romagnoli, D. Patrono, S. Keshavjee, D. Ghinolfi, S. Tullius, A. Hessheimer, J. Guarrera, V. Mas, G. Oniscu, M. Oltean, V. Tchantchaleishvili, Q. Tang, P.A. Clavien, and P.N. Martins, "Advancing Organ Preservation and Perfusion: Introducing the International Society of Organ Preservation and Perfusion Therapy (ISOPPT)," <strong><em>Artificial Organs</em></strong> (2026). <a href="https://doi.org/10.1111/aor.70179">https://doi.org/10.1111/aor.70179</a>

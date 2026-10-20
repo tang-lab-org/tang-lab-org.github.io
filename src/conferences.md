@@ -7,6 +7,10 @@ layout: layouts/page.njk
 
 <h3><strong>2026</strong></h3>
 
+(96) R. Liu, F. Yan, C. Wang, Q. Zhang, P. N. Martins, M. Bornface, Y. Cui, K. Zhang, J. Liu, N. R. Battula, K.-M. A. Fung, W. Ali, A. N. Frickenstein, and Q. Tang*. "Optical Coherence Tomography Detects Biliary Microstructural Alterations for Evaluating Bile Duct Viability in Liver Transplantation." Presented at the OU Cross-Campus Translational Biomedical Research Symposium: Moving Discovery to Healthcare, September 25, 2026, Samis Education Center, Oklahoma City, OK, USA.
+
+(95) Y. Li, M. Wong, Y. Chen, F. Omoumi, L. Ren, Q. Zhang, Q. Tang, and J. Jo, "Monte Carlo Simulation Analysis of Glandular Dose in Phase-Sensitive Breast Tomosynthesis," Presented at the 18th International Workshop on Breast Imaging (IWBI 2026), Greece.
+
 (94) F. Yan, T. Nguyen, R. Liu, J. Liu, C. Yan, Q. Zhang, C. Wang, Z. Yu, K. Fung, B. Nave, P. Martins, N. Battula, M. Pichaimuthu, K. Northcutt, S. Potter, and Q. Tang*. "Comprehensive Assessment of Human Donor Liver Viability Using Polarization-Sensitive Optical Coherence Tomography." <em>American Journal of Transplantation</em>, 26(7), S459 (2026); <a href="https://doi.org/10.1016/j.ajt.2026.05.901">https://doi.org/10.1016/j.ajt.2026.05.901</a>. Presented at the American Transplant Congress (ATC), 2026.
 
 (93) F. Yan, C. Yan, B. M. Mutembei, R. Liu, J. Liu, Q. Zhang, C. Wang, Z. Yu, K. Fung, B. Nave, P. Martins, N. Battula, M. Pichaimuthu, S. Potter, and Q. Tang*. "Viability Assessment of Pre-Transplant Human Donor Lungs Using Polarization-Sensitive Optical Coherence Tomography." <em>American Journal of Transplantation</em>, 26(7), S999 (2026); <a href="https://doi.org/10.1016/j.ajt.2026.05.2169">https://doi.org/10.1016/j.ajt.2026.05.2169</a>. Presented at the American Transplant Congress (ATC), 2026.

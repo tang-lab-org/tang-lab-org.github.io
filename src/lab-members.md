@@ -63,7 +63,7 @@ Contact: <strong>qinghao.zhang-1@ou.edu</strong>
 <div><span data-olk-copy-source="MessageBody">Junyuan is a PhD student in the Stephenson School of Biomedical Engineering at The University of Oklahoma. He obtained a master's degree in Optical Engineering from Shantou University, with research focus on Fourier ptychographic imaging systems. </span></div>
 <div>Contact: <strong>junyuan.liu-1@ou.edu</strong></div>
 <div></div>
-<img class="wp-image-1172 alignnone" src="/uploads/lab-members/2025/02/original-93528C1C-FC40-4734-BF84-9A5E453F7D2C-1024x686.jpeg" alt="" width="415" height="278" />
+<img class="wp-image-1172 alignnone" src="/uploads/lab-members/2025/02/IMG_5245.jpeg" alt="" width="276" height="343" />
 <div><strong>Ronghao Liu </strong>( Fall 2024-)</div>
 <div><span data-olk-copy-source="MessageBody">Ronghao is a PhD student in the Stephenson School of Biomedical Engineering at The University of Oklahoma, with research focus on pre-transplantation organ evaluation using optical coherence tomography. </span></div>
 <div>Contact: <strong>ronghao.liu-1@ou.edu</strong></div>

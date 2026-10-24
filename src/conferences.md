@@ -7,6 +7,8 @@ layout: layouts/page.njk
 
 <h3><strong>2026</strong></h3>
 
+(97) R. Liu, F. Yan, C. Wang, Q. Zhang, P. N. Martins, M. Bornface, Y. Cui, K. Zhang, J. Liu, N. R. Battula, K.-M. A. Fung, W. Ali, A. N. Frickenstein, and Q. Tang*. "Optical Coherence Tomography Detects Biliary Microstructural Alterations for Evaluating Bile Duct Viability in Liver Transplantation." Presented at the 2026 OU Department of Surgery Research Symposium, October 23, 2026, Stanton L. Young Biomedical Research Building, Oklahoma City, OK, USA.
+
 (96) R. Liu, F. Yan, C. Wang, Q. Zhang, P. N. Martins, M. Bornface, Y. Cui, K. Zhang, J. Liu, N. R. Battula, K.-M. A. Fung, W. Ali, A. N. Frickenstein, and Q. Tang*. "Optical Coherence Tomography Detects Biliary Microstructural Alterations for Evaluating Bile Duct Viability in Liver Transplantation." Presented at the OU Cross-Campus Translational Biomedical Research Symposium: Moving Discovery to Healthcare, September 25, 2026, Samis Education Center, Oklahoma City, OK, USA.
 
 (95) Y. Li, M. Wong, Y. Chen, F. Omoumi, L. Ren, Q. Zhang, Q. Tang, and J. Jo, "Monte Carlo Simulation Analysis of Glandular Dose in Phase-Sensitive Breast Tomosynthesis," Presented at the 18th International Workshop on Breast Imaging (IWBI 2026), Greece.

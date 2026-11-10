@@ -22,7 +22,7 @@ Contact: <strong>tri.q.vu-1@ou.edu</strong>
 <img class=" wp-image-954 alignnone" src="/uploads/shared/2024/01/CW_Photo2-943x1024.jpg" alt="" width="314" height="341" />
 
 <strong>Chen Wang</strong> (May 2024- ), Ph.D. University of Oklahoma<strong>
-</strong>Chen's research work is closely related to optical coherence tomography (OCT) technique used for diagnose and surgery. Also, Chen interested in endoscope and its applications on detection of tissue in order to help doctors in therapy process.
+</strong>Chen's research work is closely related to optical coherence tomography (OCT) technique used for diagnose and surgery. Also, Chen interested in endoscope and its applications on detection of tissue in order to help doctors in therapy process. Chen is a Prevent Cancer Foundation Postdoctoral Fellowship Awardee.
 
 <a href="https://scholar.google.com/citations?hl=en&amp;user=BZVRYOEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">https://scholar.google.com/citations?hl=en&amp;user=BZVRYOEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate</a>
 
@@ -33,7 +33,7 @@ Contact: <strong>chen_wang_ou@ou.edu</strong>
 <img class="alignnone size-medium wp-image-365" src="/uploads/shared/2019/09/zlZI4XdXScyuQubi6OOW6g-300x200.jpg" alt="" width="300" height="200" />
 
 <strong>Feng Yan (May 2024- ), Ph.D. University of Oklahoma</strong><strong>
-</strong>Lucas (Feng) earned his Bachelor of Engineering in Optoelectronic Information Science and Engineering at Nanchang Hangkong University. His past research was focused on Stimulated Brillouin Scattering (SBS) and Optical Coherence Tomography (OCT). Currently, he is working on the application of OCT and Fluorescence Laminar Optical Tomography (FLOT) on early Cancer and Tumor Detection.
+</strong>Lucas (Feng) earned his Bachelor of Engineering in Optoelectronic Information Science and Engineering at Nanchang Hangkong University. His past research was focused on Stimulated Brillouin Scattering (SBS) and Optical Coherence Tomography (OCT). Currently, he is working on the application of OCT and Fluorescence Laminar Optical Tomography (FLOT) on early Cancer and Tumor Detection. He is an NIH/NIBIB K99/R00 Pathway to Independence Awardee and an American Liver Foundation (ALF) Fellowship Awardee.
 
 <a href="https://scholar.google.com/citations?hl=en&amp;user=eZnHgiEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">https://scholar.google.com/citations?hl=en&amp;user=eZnHgiEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate</a>
 
